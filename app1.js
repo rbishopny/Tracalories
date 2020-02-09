@@ -1,3 +1,5 @@
+//When I update in the UI the list items all change to the same listItem and calories.  I can't find the issue that only changes the edited listItem
+
 //Storage Controller
 const StorageCtrl = (function(){
   // Public methods
